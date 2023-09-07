@@ -3,8 +3,8 @@ Brody Allison
 September 2023
 
 HOW TO DOWNLOAD
-1) Download all raw files in this github (README.md not required).
-2) Put all the downloaded files into one folder.
+1) Download Los Dias de la Semana.zip.
+2) Unzip Los Dias de la Semana.zip.
 3) Right click Los Dias de Semana.exe, and create shortcut. (this shortcut will make it easier to locate the study application)
 4) Put the shortcut where it is easiest for you to find whenever you want to use the study application
 5) Open the shortcut and you can now use the Los Dias de la Semana study guide!
